@@ -1,0 +1,16 @@
+.navBar {
+	background-color: #1877F2;
+	padding: 10px;
+}
+
+
+.navBar__link {
+	text-decoration: none;
+	color: #FFFFFF;	
+	font-weight: bold;
+}
+
+.navBar__siteName {
+	font-size: 20px;
+	
+}
