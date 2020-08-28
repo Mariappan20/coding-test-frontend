@@ -13,6 +13,9 @@ const Navbar = () => {
 						<Link to="/" className="navBar__link">Connect</Link>
 					</Col>
 					<Col xs="auto" sm="auto" md="auto" lg="auto" xl="auto">
+						<Link to="/createPost" className="navBar__link">Create Post</Link>
+					</Col>
+					<Col xs="auto" sm="auto" md="auto" lg="auto" xl="auto">
 						<Link to="/login" className="navBar__link">Login</Link>
 					</Col>
 					<Col xs="auto" sm="auto" md="auto" lg="auto" xl="auto">

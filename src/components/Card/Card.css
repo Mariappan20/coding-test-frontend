@@ -1,0 +1,45 @@
+.card {
+	border: 1px solid #ddd;
+	margin: 25px auto;
+	max-width: 520px;
+	padding: 20px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	height: max-content;
+}
+
+.card__title {
+	
+}
+
+.card__img {
+	width: 100%;
+}
+.card__content {
+	margin-bottom: 10px;
+}
+
+.card__comment{
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+	
+}
+
+.card__likesIcon {
+	display: flex;
+	align-itmes: center;
+}
+
+.card__likesCount {
+	margin-left: 4px;
+}
+
+.card__comment:focus {
+	outline: none;
+}
+
+.marg-btm {
+	margin-bottom: 10px;
+}

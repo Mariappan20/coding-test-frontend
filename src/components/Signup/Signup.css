@@ -1,0 +1,39 @@
+.signup {
+	border: 1px solid #ddd;
+	margin: 25px auto;
+	max-width: 400px;
+	padding: 20px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+.signup__title {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.signup__input {
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ddd;
+	
+}
+
+.signup__button {
+	background-color: #119F16;
+	padding: 10px;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.signup__existingAccount {
+	border-top: 1px solid #ddd;
+}
+
+.signup__existingLink:hover{
+	text-decoration: none;
+}
